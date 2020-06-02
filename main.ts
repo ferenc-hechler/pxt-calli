@@ -1,1 +1,2 @@
-basic.showString("hi!")
+basic.showString("he?")
+nntest.fcnnfromjson("{}")
