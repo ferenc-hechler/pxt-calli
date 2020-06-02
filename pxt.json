@@ -9,7 +9,10 @@
         "main.blocks",
         "main.ts",
         "nntest.ts",
+        "nntest.cpp",
+        "shims.d.ts",
+        "enums.d.ts",
         "README.md"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }

@@ -1,6 +1,6 @@
 # pxt-calli
 
-this version works 2020-06-02 19:58
+fails with math.ts error. 2020-06-02 20:16.
 
 ## Supported targets
 
